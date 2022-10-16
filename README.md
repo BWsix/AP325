@@ -13,3 +13,4 @@
 ### ch1 - Recursion
 
 - [P-1-1](/ch1/P-1-1.cpp)
+- [Q-1-2](/ch1/Q-1-2.cpp)
