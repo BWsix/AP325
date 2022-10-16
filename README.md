@@ -12,10 +12,24 @@
 
 ### ch1 - Recursion
 
-- [P-1-1](/ch1/01.cpp)
-- [Q-1-2](/ch1/02.cpp)
-- [P-1-3](/ch1/03.cpp)
-- Q-1-4
-- [Q-1-5](/ch1/05.cpp)
-- [P-1-7](/ch1/07.cpp)
-- [Q-1-8](/ch1/08.cpp)
+- [01](/ch1/01.cpp)
+- [02](/ch1/02.cpp)
+- [03](/ch1/03.cpp)
+- 04
+- [05](/ch1/05.cpp)
+- (there's no 06)
+- [07](/ch1/07.cpp)
+- [08](/ch1/08.cpp)
+- 10
+- 11
+
+### ch2 - Sorting and Binary Search
+
+- [01 (w/ set)](/ch2/01-with-set.cpp) [01 (w/o set)](/ch2/01-without-set.cpp)
+- [02](/ch2/02.cpp)
+- [03](/ch2/03.cpp)
+- [04](/ch2/04.cpp)
+- 05
+- [06](/ch2/06.cpp)
+- [07](/ch2/07.cpp)
+- 08 ~ 15
