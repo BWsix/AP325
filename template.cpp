@@ -1,17 +1,25 @@
 #include "bits/stdc++.h"
 using namespace std;
 
-#define pb push_back
 typedef long long LL;
+typedef vector<int> vi;
+#define pb push_back
 
-void solve() {
+// define variables here
+
+void reader() {
+  // read variables here
+}
+
+void solver() {
   // code here
 }
 
 int main() {
   ios_base::sync_with_stdio(0), cin.tie(0);
 
-  solve();
+  reader();
+  solver();
 
   return 0;
 }
