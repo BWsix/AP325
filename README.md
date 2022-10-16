@@ -25,7 +25,7 @@
 
 ### ch2 - Sorting and Binary Search
 
-- [01 (w/ set)](/ch2/01-with-set.cpp) [01 (w/o set)](/ch2/01-without-set.cpp)
+- [01 (w/ set)](/ch2/01-with-set.cpp)/[01 (w/o set)](/ch2/01-without-set.cpp)
 - [02](/ch2/02.cpp)
 - [03](/ch2/03.cpp)
 - [04](/ch2/04.cpp)
